@@ -12,6 +12,8 @@ public class Main {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		System.out.println("Probando actualización del código para github");
+
 		/**
 		 * Creo objeto de la clase scanner para que el usuario introduzca su edad 
 		 * y almacenarlo en la variable edad
@@ -38,7 +40,6 @@ public class Main {
 			System.out.println("Te quedan " + aniosHastaJubilacion + " años. ¡A seguir trabajando gandul!");
 			
 			
-			System.out.println("Probando actualización del código para github");
 			entrada.close();
 		}
 	}
